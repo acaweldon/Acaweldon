@@ -10,7 +10,9 @@
 
 ## 🔧 Technical Skills  
 ✅ Windows, macOS, Active Directory, Google Admin, Okta, Slack, Zoom
+
 ✅ Security: DUO, VPN, Tenable.io, Splunk, Patch Management  
+
 ✅ Networking: Palo Alto GlobalProtect  
 
 ## 📫 Connect with Me  
