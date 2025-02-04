@@ -7,7 +7,6 @@ AWS Cloud Practitioner (https://www.credly.com/badges/9431f127-24dd-4a3e-a589-b0
 
 Microsoft Azure Fundamentals (https://learn.microsoft.com/en-us/users/anacarolinaalvesweldon-9615/credentials/7a1014025fdd3570?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
-<h2> ![image](https://github.com/user-attachments/assets/aa8f2840-7d93-4236-aa9d-7d5982efe1ae)
- Connect with me on LinkedIn:(https://www.linkedin.com/in/anaweldon)
+<h2>  Connect with me on LinkedIn:(https://www.linkedin.com/in/anaweldon)
 
 
