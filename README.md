@@ -8,14 +8,6 @@ AWS Cloud Practitioner (10/2024)](https://www.credly.com/badges/9431f127-24dd-4a
 
 Microsoft Azure Fundamentals (10/2024)](https://learn.microsoft.com/en-us/users/anacarolinaalvesweldon-9615/credentials/7a1014025fdd3570?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
-<h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="AnaWeldon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
-[linkedin]: https://www.linkedin.com/in/anaweldon/
-[linkedin]: https://linkedin.com/in/anaweldon/
-
-**acaweldon/acaweldon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> 🤳 Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/anaweldon)
 
 
