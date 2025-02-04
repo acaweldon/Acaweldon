@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ana! <br/><a href="https://github.com/acaweldon">Programmer</a>, <a href="https://www.linkedin.com/in/anaweldon/">IT Professional</a>, 
+<h1>Hi, I'm Ana! <br/><a href="https://github.com/acaweldon">, <a href="https://www.linkedin.com/in/anaweldon/">IT Professional</a>, 
 
 <h2>👨‍💻 Projects:</h2>
 
