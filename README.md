@@ -9,7 +9,7 @@
 - [Microsoft Azure Fundamentals (https://learn.microsoft.com/en-us/users/anacarolinaalvesweldon-9615/credentials/7a1014025fdd3570?ref=https%3A%2F%2Fwww.linkedin.com%2F)  
 
 ## 🔧 Technical Skills  
-✅ Windows, macOS, Active Directory, Google Admin, Okta, Slack
+✅ Windows, macOS, Active Directory, Google Admin, Okta, Slack, Zoom
 ✅ Security: DUO, VPN, Tenable.io, Splunk, Patch Management  
 ✅ Networking: Palo Alto GlobalProtect  
 
