@@ -1,8 +1,6 @@
 <h1>Hi, I'm Ana! <br/><a href="https://github.com/acaweldon"> <a href="https://www.linkedin.com/in/anaweldon/"> Helpdesk Technician | Cloud & Security Enthusiast ☁️🔐
 
 <h2>👨‍💻 Projects:</h2>
-<p style="color:black;">This text is black.</p>
-<p style="color:black;">This text is also black.</p>
 
 <h2>🏆 Certifications:</h2>CompTIA Security+ Certification(https://www.credly.com/earner/earned/badge/fa0ae774-0bd6-40c2-86e0-e1bca6a18844)
 AWS Cloud Practitioner (https://www.credly.com/badges/9431f127-24dd-4a3e-a589-b0941c3b7455/linked_in_profile)
