@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ana! <br/><a href="https://github.com/acaweldon"> <a href="https://www.linkedin.com/in/anaweldon/"> Passionate IT professional with 4+ years of experience in technical support, IT operations, and security. Skilled in troubleshooting, system administration, and security tools such as Splunk and Tenable. Currently expanding my expertise in Cloud Computing and Security, working towards AWS and Azure certifications.
+<h1>Hi, I'm Ana! <br/><a href="https://github.com/acaweldon"> <a href="https://www.linkedin.com/in/anaweldon/"> Helpdesk Technician | Cloud & Security Enthusiast ☁️🔐
 
 <h2>👨‍💻 Projects:</h2>
 <h2>🏆 Certifications:</h2> CompTIA Security+ (06/2024)](https://www.credly.com/badges/fa0ae774-0bd6-40c2-86e0-e1bca6a18844/linked_in_profile)
